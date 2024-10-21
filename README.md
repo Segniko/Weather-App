@@ -13,6 +13,7 @@ Hey there! 👋 Welcome to my Weather App — a clean, modern web app that gives
 [Check it out live!](https://segniko.github.io/Weather-App/)
 
 📸 Screenshots
+
 ![Screenshot 2024-10-21 235116](https://github.com/user-attachments/assets/201b7497-f54e-4851-ba31-2f521b498475)
 
 
